@@ -12,3 +12,4 @@ Content index:
   * [Our Project](/docs/01-introduction#our-project)
 * [The HttpFoundation Component](/docs/02-the-http-foundation-component)
   * [Going OOP with the HttpFoundation Component](/docs/02-the-http-foundation-component#going-oop-with-the-http-foundation-component)
+* [The Front Controller](/docs/03-the-front-controller)
