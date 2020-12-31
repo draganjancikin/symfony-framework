@@ -8,5 +8,7 @@
             "email": "dragan.jancikin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/http-foundation": "^5.2"
+    }
 }
