@@ -1,0 +1,12 @@
+{
+    "name": "rolostil/symfony-framework",
+    "description": "Framework project for learning purpose",
+    "type": "project",
+    "authors": [
+        {
+            "name": "draganjancikin",
+            "email": "dragan.jancikin@gmail.com"
+        }
+    ],
+    "require": {}
+}
